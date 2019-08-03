@@ -1,0 +1,13 @@
+<html>
+ <head>
+	<title>Welcome to ansible</title>
+</head>
+<body>
+<h1> nginx, configured by Ansible</h1>
+<p>If you can see this, Ansible successfully installed nginx.</p>
+<img src="./img/emily.jpg">
+pohe45uyawszfdre56tuiop6123476ytghkouhhuuuu9890767mnvbvcxz§rredetexchjhjcgjklgdjkyfjp;oidrf
+
+<p> Running on {{ inventory_hostname }}</p>
+</body>
+</html>
